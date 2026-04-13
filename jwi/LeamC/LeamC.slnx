@@ -1,0 +1,12 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="class1th/class1th.vcxproj" Id="f4f39fa8-df68-4b9e-b7d0-d3653b63533d" />
+  <Project Path="class2th ( Loop )/class2th ( Loop ).vcxproj" Id="a412b441-a592-4dbc-b1c9-09716cc117cf" />
+  <Project Path="class3th ( 반복문 )/class3th ( 반복문 ).vcxproj" Id="1f779ecc-c3e9-4676-8d45-3fbbea9b34e7" />
+  <Project Path="class4th (전처리기)/class4th (전처리기).vcxproj" Id="05937a56-8774-48d4-8611-796fdf77ac5b" />
+  <Project Path="Class5th ( 복습 모음 )/Class5th ( 복습 모음 ).vcxproj" Id="24138f74-1b3e-4233-a20c-866b1e00fd9c" />
+  <Project Path="LeamC/LeamC.vcxproj" Id="db743730-01d7-4f44-a585-229bc3fbb1c9" />
+</Solution>
