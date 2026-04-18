@@ -8,31 +8,34 @@
 void load(const char * file_name)
 {
 	FILE* file = fopen(file_name, "r");
+	if (file == NULL) return;
 
-	char buffer[SIZE] = { 0, };
+	int character = 0;
+	int count = 0;
 
-	// 첫 번째 매개변수 : 읽을 데이터를 저장할 메모리 버퍼의 포인터 변수
-	// 두 번째 매개변수 : 각 데이터 항목의 크기
-	// 세 번째 매개변수 : 데이터를 읽어올 항목의 수
-	// 네 번째 매개변수 : 데이터를 읽어올 파일의 포인터 변수 
+	while ((character = fgetc(file)) != EOF)
+	{
+		printf("%c", character);
+		count++;
+	}
 
-	fread(buffer, sizeof(char), SIZE, file);
-
-	printf("%s", buffer);
+	printf("\n\n데이터 읽기 완료! 총 글자 수 : %d\n", count);
 
 	fclose(file);
 
-	int character = '\0';
-	int count = 0;
+	// char buffer[SIZE] = { 0, };
+	// 
+	// // 첫 번째 매개변수 : 읽을 데이터를 저장할 메모리 버퍼의 포인터 변수
+	// // 두 번째 매개변수 : 각 데이터 항목의 크기
+	// // 세 번째 매개변수 : 데이터를 읽어올 항목의 수
+	// // 네 번째 매개변수 : 데이터를 읽어올 파일의 포인터 변수 
+	// 
+	// fread(buffer, sizeof(char), SIZE, file);
+	// 
+	// printf("%s", buffer);
+	// 
+	// fclose(file);
 
-	while (character = EOF)
-	{
-		if (count <= character)
-		{
-			fgetc(file);
-			printf("%c\n", character);
-		}
-	}
 
 }
 
