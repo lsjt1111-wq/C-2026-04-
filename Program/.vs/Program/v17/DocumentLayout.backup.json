@@ -7,6 +7,9 @@
       "RelativeMoniker": "D:0:0:{F45D39B0-3956-4B69-9BBC-E1C02169B3BD}|Program.vcxproj|solutionrelative:source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{AC38A9AC-F7F9-4328-ADA5-A2729D98EA74}|..\\Class3th( File lnput \u0026 Output )\\Class3th( File lnput \u0026 Output ).vcxproj|C:\\Users\\Administrator\\Desktop\\C-2026-04-\\Class3th( File lnput \u0026 Output )\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\C-2026-04-\\jwi\\Program\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -17,8 +20,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "source.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-2026-04-\\Class3th( File lnput \u0026 Output )\\source.c",
+              "RelativeDocumentMoniker": "..\\Class3th( File lnput \u0026 Output )\\source.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-2026-04-\\Class3th( File lnput \u0026 Output )\\source.c",
+              "RelativeToolTip": "..\\Class3th( File lnput \u0026 Output )\\source.c",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAwEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-20T10:35:56.122Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -27,20 +43,20 @@
               "RelativeDocumentMoniker": "source.c",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-2026-04-\\Program\\source.c",
               "RelativeToolTip": "source.c",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-04-15T10:10:20.076Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "source.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-2026-04-\\jwi\\Program\\source.c",
               "RelativeDocumentMoniker": "..\\jwi\\Program\\source.c",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-2026-04-\\jwi\\Program\\source.c",
               "RelativeToolTip": "..\\jwi\\Program\\source.c",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAADsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-04-15T09:01:31.033Z",
               "EditorCaption": ""
