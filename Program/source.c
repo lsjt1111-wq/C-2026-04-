@@ -1,4 +1,4 @@
-#include <stdio.h>
+﻿#include <stdio.h>
 #include <conio.h>
 #include <windows.h>
 
@@ -83,14 +83,17 @@ int main()
 
 	while (1)
 	{
-		filp();
+		flip();
 
 		clear();
 		x++;
-		render(x,5, "★");
+		if (x > 30) x = 0;
+
+		render(x, 5, "A");
+
+		Sleep(100);
 	}
 
 	release();
-
 	return 0; 
 }
