@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\C-2026-04-\\Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F45D39B0-3956-4B69-9BBC-E1C02169B3BD}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\C-2026-04-\\Program\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F45D39B0-3956-4B69-9BBC-E1C02169B3BD}|Program.vcxproj|solutionrelative:source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D34C1F74-E785-4E46-B0BF-4D130A276F0B}|..\\Class5th ( Double Buffering )\\Class5th ( Double Buffering ).vcxproj|C:\\Users\\Administrator\\Desktop\\C-2026-04-\\Class5th ( Double Buffering )\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9D6F8EB-AD3F-46F0-8A59-FAE3DCCB4917}|..\\Class4th ( Color Sythem )\\Class4th ( Color Sythem ).vcxproj|C:\\Users\\Administrator\\Desktop\\C-2026-04-\\Class4th ( Color Sythem )\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F45D39B0-3956-4B69-9BBC-E1C02169B3BD}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\C-2026-04-\\Program\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F45D39B0-3956-4B69-9BBC-E1C02169B3BD}|Program.vcxproj|solutionrelative:source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\C-2026-04-\\jwi\\Program\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -20,30 +20,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "source.c",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-2026-04-\\Class4th ( Color Sythem )\\source.c",
-              "RelativeDocumentMoniker": "..\\Class4th ( Color Sythem )\\source.c",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-2026-04-\\Class4th ( Color Sythem )\\source.c",
-              "RelativeToolTip": "..\\Class4th ( Color Sythem )\\source.c",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAiwFEAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-2026-04-\\Class5th ( Double Buffering )\\source.c",
+              "RelativeDocumentMoniker": "..\\Class5th ( Double Buffering )\\source.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-2026-04-\\Class5th ( Double Buffering )\\source.c",
+              "RelativeToolTip": "..\\Class5th ( Double Buffering )\\source.c",
+              "ViewState": "AgIAAEgAAAAAAAAAAADwv2gAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-04-21T10:28:39.311Z",
+              "WhenOpened": "2026-04-23T10:28:34.828Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "source.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-2026-04-\\Program\\source.c",
               "RelativeDocumentMoniker": "source.c",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-2026-04-\\Program\\source.c",
               "RelativeToolTip": "source.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-04-15T10:10:20.076Z",
               "EditorCaption": ""
